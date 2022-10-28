@@ -1,0 +1,19 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "node project modulo01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avriluka/modulo01_git.git"
+  },
+  "author": "alejandra gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avriluka/modulo01_git/issues"
+  },
+  "homepage": "https://github.com/avriluka/modulo01_git#readme"
+}
